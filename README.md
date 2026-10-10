@@ -5,8 +5,6 @@ This anonymized repository provides the core model implementation for the submit
 
 **EFM-Net: An Electrode Field to Muscle Network for Spinal Cord Stimulation Response Prediction**
 
-The complete training pipeline, experiment scripts, and releasable dataset files will be made available upon publication.
-
 ## Repository Structure
 
 ```text
