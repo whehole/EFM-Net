@@ -1,7 +1,7 @@
 
 # EFM-Net Implementation
 
-This anonymized repository provides the core model implementation for the submitted paper:
+This repository provides the core model implementation for the submitted paper:
 
 **EFM-Net: An Electrode Field to Muscle Network for Spinal Cord Stimulation Response Prediction**
 
